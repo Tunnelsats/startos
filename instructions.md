@@ -6,4 +6,3 @@ A VPN service for lightning implementations.
 
 `npm i`
 `make`
-
